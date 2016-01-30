@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "683FDFC4CC575EF2682BA0F55359E29A1DE9D027",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "683FDFC4CC575EF2682BA0F55359E29A1DE9D027" : 0,
+    "4E2F5E824C021282D3F5789E108FCDC580F66A19" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DBFE3C46-7673-4BDB-8E68-1C02FD35253B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "683FDFC4CC575EF2682BA0F55359E29A1DE9D027" : "DollarSubmoduleApp\/",
+    "4E2F5E824C021282D3F5789E108FCDC580F66A19" : "DollarSubmoduleApp\/Dollar.swift\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DemoApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "DemoApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:ankurp\/Dollar.swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4E2F5E824C021282D3F5789E108FCDC580F66A19"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:ankurp\/DollarSubmoduleApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "683FDFC4CC575EF2682BA0F55359E29A1DE9D027"
+    }
+  ]
+}

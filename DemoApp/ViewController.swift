@@ -19,7 +19,7 @@ class ViewController: UIViewController {
         let result = $.map([1, 2, 3]) {
             ($0 * 2).description
         }
-        resultLabel.text = "=\n" + Swift.join(",", result)
+        resultLabel.text = "=\n" + $.join(result, separator: ",")
     }
 
     override func didReceiveMemoryWarning() {
